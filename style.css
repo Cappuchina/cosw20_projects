@@ -1,0 +1,5 @@
+header {text-align: center;}
+h1 {font-size: 2em; color: teal; margin: 2em 15em 1em; text-align: center; background-color: azure; font-family: Dancing Script, Verdaana, Tahoma, serif; border: dotted 2px}
+h2 {color: teal; margin: 2em; text-align: center; font-family: Rajdhani, Verdana, Tahoma;}
+a {text-decoration: none; text-align: center; }
+p {margin: 2em 15em; line-height: 2em;  border: dashed 2px navy; text-align: center; background-color: azure; color: darkslategray; font-size: 20px;}
